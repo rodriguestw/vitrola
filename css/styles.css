@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url("../assets/img/fundo-madeira.jpg"); /* imagem de fundo */
+    background-size: cover; /* cobre toda a tela */
+    background-position: center; /* centraliza a imagem */
+    background-repeat: no-repeat; /* não repete a imagem */
+}
