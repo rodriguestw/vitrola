@@ -1,0 +1,5 @@
+startRotation();
+
+stopRotation();
+
+slowDown();

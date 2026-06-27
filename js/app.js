@@ -1,0 +1,7 @@
+initPlaylist();
+
+initDrag();
+
+initTonearm();
+
+initAudio();

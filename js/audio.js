@@ -1,0 +1,7 @@
+playSong();
+
+pauseSong();
+
+stopSong();
+
+nextSong();
