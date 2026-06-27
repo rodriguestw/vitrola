@@ -1,5 +1,0 @@
-dragTonearm();
-
-moveNeedle();
-
-checkNeedlePosition();

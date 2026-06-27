@@ -1,7 +1,0 @@
-playSong();
-
-pauseSong();
-
-stopSong();
-
-nextSong();

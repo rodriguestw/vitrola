@@ -1,5 +1,0 @@
-mousedown
-
-mousemove
-
-mouseup
